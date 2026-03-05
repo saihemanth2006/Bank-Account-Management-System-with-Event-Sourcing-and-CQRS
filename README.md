@@ -29,4 +29,3 @@ Notes
 - Snapshots are created every 50 events per aggregate and stored in `snapshots` table.
 - Projections are updated synchronously after events are appended.
 
-# Bank-Account-Management-System-with-Event-Sourcing-and-CQRS
